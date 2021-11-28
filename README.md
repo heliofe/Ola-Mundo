@@ -1,2 +1,2 @@
 # Olá Mundo!
- primeiro repositorio do GitHub criado durante auala ao vivo.
+ primeiro repositório do GitHub criado durante aula ao vivo.
